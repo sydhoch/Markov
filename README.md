@@ -1,0 +1,2 @@
+# Markov
+Markov processes are widely used in Computer Science and in analyzing different forms of data. This assignment offers an occasionally amusing look at text (it's more fun than counting words) by using a Markov process to generate random text based on a training text. When run in reverse  --- we won't do that in this assignment -- it's possible to identify the source of an unknown text based on frequency of letters and words. This process can be used to identify SPAM or to ascertain if Bacon wrote Romeo and Juliet.
